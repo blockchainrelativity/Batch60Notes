@@ -1,0 +1,1 @@
+module Batch60NftMinting where

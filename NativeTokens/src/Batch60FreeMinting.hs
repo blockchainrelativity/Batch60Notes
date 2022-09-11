@@ -1,0 +1,1 @@
+module Batch60FreeMinting where
